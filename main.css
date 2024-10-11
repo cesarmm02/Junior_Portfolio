@@ -1,23 +1,54 @@
+/*google fonts*/
+.concert-one-regular {
+  font-family: "Concert One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.permanent-marker-regular {
+  font-family: "Permanent Marker", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+.jacquard-24-regular {
+  font-family: "Jacquard 24", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+.mansalva-regular {
+  font-family: "Mansalva", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.wallpoet-regular {
+  font-family: "Wallpoet", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+/*end of google fonts*/
+
 html,body{
 	height: 99%;
 	width: 99%;
-	background-color: ghostwhite;
+	background-color: #1f306e;
 }
 *{
 	box-sizing: border-box;
 }
 .banner{
-	background-color: rgba(159,166,104,0.4);
-	margin: 15px;
-	padding: 10px;
-	border: 3px solid #a3c1ad;
-	box-shadow: 1px 3px 30px 1px #b7cc9d;
-	outline: 10px 10px #49796b groove;
-	text-transform: capitalize;
-	text-shadow: 1px 1px #317873 ;
-	font-family: 'M PLUS Rounded 1c', sans-serif;					height: 120px;
-	text-align: right;
-	font-style: oblique;
+border: 0px solid #553772;
+  border-radius: 12px;
+  position: relative;
+  margin-top: 0px;
+	/*
+  background-image: url("images/triang.png");
+  background-repeat: no-repeat;
+  background-size: 100% 650px;
+	*/
+  color: #f5487f;
+  height: 500px;
+  width: 100%;
+  text-align: center;
+  font-size: 4em;
 }
 h1{
 	font-size: 0.7em;
