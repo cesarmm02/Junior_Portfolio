@@ -54,7 +54,16 @@ border: 0px solid #553772;
 h1{
 	font-size: 0.7em;
 }
-
+ul {
+  background-color: #553772;
+  color: #c7417b;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  position: sticky;
+  top: 0;
+}
 #logo{
 	width: 75px;
 	position: absolute;
