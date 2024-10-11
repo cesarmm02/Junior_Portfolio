@@ -64,6 +64,39 @@ ul {
   position: sticky;
   top: 0;
 }
+li {
+	display: inline;
+	float: left;
+  }
+  a {
+	text-decoration: none;
+	color: white;
+  }
+  a:visited{
+	color: white;
+  }
+  li a:hover{
+	border: 0px solid #553772;
+	border-radius: 12px;
+	background-color: #f5487f;
+  }
+  div{
+	padding: 5px 16px;
+	background-color: #553772;
+	border: 0px solid #553772;
+	border-radius: 12px;
+	text-align: center; 
+  }
+  li a {
+	transition: background-color 1s;
+	display: block;
+	border: 0px solid #553772;
+	border-radius: 12px;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+  }
 #logo{
 	width: 75px;
 	position: absolute;
