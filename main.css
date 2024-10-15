@@ -111,6 +111,12 @@ li {
   margin-top: 10px;
   padding: 20px 24px;
   background-color: #8f3b76;
+.content h2{
+  font-size: 3em;
+}
+.content h3{
+  font-size: 2em;
+}
 }
 .wave{
 	border: red 1px solid;
