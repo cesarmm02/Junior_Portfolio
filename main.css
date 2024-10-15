@@ -98,7 +98,8 @@ li {
 	text-decoration: none;
   }
 #logo{
-	width: 75px;
+	width: 200px;
+	height: 200px;
 	position: absolute;
 	top: 50px;
 	right: 260px;
