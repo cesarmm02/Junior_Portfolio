@@ -209,3 +209,8 @@ li {
   height: 1200px;
   z-index: 1;
 }
+.active{
+	background-color: #8f3b76;
+	border: 0px solid #553772;
+	border-radius: 12px;
+  }
