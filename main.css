@@ -209,11 +209,45 @@ li {
   height: 750px;
   z-index: 1;
 }
-#cfu5:hover, #cfu5:hover, #cfu6:hover, #cfu12:hover{
+#cfu5:hover, #cfu6:hover, #cfu7:hover, #cfu12:hover{
 	height:800px;
 }
 #cfu9:hover, #cfu10:hover{
 	height:850px;
+}
+
+#cfu2{
+	background-color:#643973;
+}
+#cfu3{
+	background-color:#723A74;
+}
+#cfu4{
+	backgorund-color:#813C76;
+}
+#cfu5{
+	background-color:#643973;
+}
+#cfu6{
+	background-color:#723A74;
+}
+#cfu7{
+	backgorund-color:#813C76;
+}
+#cfu8{
+	background-color:#643973;
+}
+#cfu9{
+	background-color:#723A74;
+}
+#cfu10{
+	backgorund-color:#813C76;
+}
+#cfu11{
+	background-color:#643973;
+}
+#cfu12{
+	background-color:#723A74;
 }
 
 .active{
