@@ -206,7 +206,7 @@ li {
   padding-right: 5px;
 }
 .drop:hover{
-  height: 500px;
+  height: 750px;
   z-index: 1;
 }
 .active{
