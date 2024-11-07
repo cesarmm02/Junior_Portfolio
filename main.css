@@ -209,6 +209,13 @@ li {
   height: 750px;
   z-index: 1;
 }
+#cfu5:hover, #cfu5:hover, #cfu6:hover, #cfu12:hover{
+	height:800px;
+}
+#cfu9:hover, #cfu10:hover{
+	height:850px;
+}
+
 .active{
 	background-color: #8f3b76;
 	border: 0px solid #553772;
