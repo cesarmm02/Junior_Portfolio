@@ -52,7 +52,7 @@ border: 0px solid #553772;
   font-size: 4em;
 }
 h1{
-	font-size: 0.7em;
+	font-size: 2em;
 }
 ul {
   background-color: #553772;
@@ -122,7 +122,7 @@ li {
 .wave{
 	border: red 1px solid;
 	background-color: rgba(255,34,45, 0.5);
-	font-size: 0.9em;
+	font-size: 1.5em;
 	height: 25px;
 	overflow: hidden;
 	width: 80%;
@@ -222,17 +222,12 @@ li {
 #cfu3{
 	background-color:#723A74;
 }
-#cfu4{
-	backgorund-color:#813C76;
-}
+
 #cfu5{
 	background-color:#643973;
 }
 #cfu6{
 	background-color:#723A74;
-}
-#cfu7{
-	backgorund-color:#813C76;
 }
 #cfu8{
 	background-color:#643973;
@@ -240,9 +235,7 @@ li {
 #cfu9{
 	background-color:#723A74;
 }
-#cfu10{
-	backgorund-color:#813C76;
-}
+
 #cfu11{
 	background-color:#643973;
 }
