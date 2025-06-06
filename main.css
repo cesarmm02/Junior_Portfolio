@@ -52,7 +52,7 @@ border: 0px solid #553772;
   font-size: 4em;
 }
 h1{
-	font-size: 2em;
+	font-size: 1em;
 }
 ul {
   background-color: #553772;
@@ -122,7 +122,7 @@ li {
 .wave{
 	border: red 1px solid;
 	background-color: rgba(255,34,45, 0.5);
-	font-size: 1.5em;
+	font-size: 1em;
 	height: 25px;
 	overflow: hidden;
 	width: 80%;
