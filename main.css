@@ -47,7 +47,7 @@ border: 0px solid #8093F1;
   background-repeat: no-repeat;
   background-size: 100% 650px;
 	*/
-  background-color: rgb(101, 172, 195, 0.3);
+  background-color: rgb(101, 172, 195, 0.5);
   height: 500px;
   width: 100%;
   text-align: center;
@@ -57,7 +57,7 @@ h1{
 	font-size: 1em;
 }
 ul {
-  background-color: #553772;
+  background-color: rgb(101, 172, 195, 0.5);
   color: #c7417b;
   list-style-type: none;
   margin: 0;
@@ -114,7 +114,7 @@ li {
   border-radius: 12px;
   margin-top: 10px;
   padding: 20px 24px;
-  background-color: #B388EB;
+  background-color: rgb(30, 108, 161, 0.5);
 .container h2{
   font-size: 3em;
 }
