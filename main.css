@@ -49,7 +49,7 @@ border: 0px solid #553772;
   height: 500px;
   width: 100%;
   text-align: center;
-  font-size: 2em;
+  font-size: 3em;
 }
 h1{
 	font-size: 1em;
@@ -67,6 +67,7 @@ ul {
 li {
 	display: inline;
 	float: left;
+	font-size: 1em;
   }
   a {
 	text-decoration: none;
